@@ -1,0 +1,19 @@
+body{
+    background-color:lightblue;
+    text-aline:center
+}
+
+table{
+    border-collapse:collapse;
+    border-spacing:0;}
+
+td,th{
+    padding:0;
+    height:90px;
+}
+.inputs{
+    vertical-align:top;
+}
+.clear{
+    clear:both;
+}

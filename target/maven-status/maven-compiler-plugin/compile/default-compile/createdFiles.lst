@@ -1,0 +1,13 @@
+com/itheima/web/SelectAllServlet.class
+com/itheima/web/LoginServlet.class
+com/itheima/web/UpdateServlet.class
+com/itheima/mapper/UserMapper.class
+com/itheima/service/UserService.class
+com/itheima/mapper/BrandMapper.class
+com/itheima/web/RegisterServlet.class
+com/itheima/util/SqlSessionFactoryUtils.class
+com/itheima/web/SelectByIdServlet.class
+com/itheima/web/AddServlet.class
+com/itheima/pojo/User.class
+com/itheima/service/BrandService.class
+com/itheima/pojo/Brand.class
